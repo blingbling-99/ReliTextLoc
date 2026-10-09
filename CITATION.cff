@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the ReliTextLoc manuscript."
+type: software
+title: "ReliTextLoc: Reliable Text-guided 3D Localization under Attribute Ambiguity"
+authors:
+  - family-names: Liu
+    given-names: Shanshan
+  - family-names: Wang
+    given-names: Wei
+  - family-names: Zhang
+    given-names: Tianshuo
+version: "0.1.0-preacceptance"
+abstract: "Partial pre-acceptance release: evaluation, data interfaces, synthetic examples, and visualization. The reranking implementation is withheld until acceptance."
+repository-code: "https://github.com/blingbling-99/ReliTextLoc"

@@ -1,0 +1,5 @@
+# Verified public plotting runtime: Python 3.10.21.
+# Evaluation uses the author's float64 NumPy norm; data readers use stdlib.
+# Matplotlib is needed only for plotting and XY visualization.
+numpy==1.26.4
+matplotlib==3.7.1
