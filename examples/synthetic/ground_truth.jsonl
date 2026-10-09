@@ -1,0 +1,12 @@
+{"query_id":"exact_5","source_scene":"synthetic_scene_a","gt_xy":[0.0,0.0]}
+{"query_id":"below_5","source_scene":"synthetic_scene_a","gt_xy":[0.0,10.0]}
+{"query_id":"above_5","source_scene":"synthetic_scene_a","gt_xy":[0.0,20.0]}
+{"query_id":"exact_10","source_scene":"synthetic_scene_a","gt_xy":[0.0,30.0]}
+{"query_id":"exact_15","source_scene":"synthetic_scene_a","gt_xy":[0.0,40.0]}
+{"query_id":"above_15","source_scene":"synthetic_scene_a","gt_xy":[0.0,50.0]}
+{"query_id":"wrong_scene_close","source_scene":"synthetic_scene_a","gt_xy":[0.0,60.0]}
+{"query_id":"invalid","source_scene":"synthetic_scene_a","gt_xy":[0.0,70.0]}
+{"query_id":"missing_coordinate","source_scene":"synthetic_scene_a","gt_xy":[0.0,80.0]}
+{"query_id":"malformed_coordinate","source_scene":"synthetic_scene_a","gt_xy":[0.0,90.0]}
+{"query_id":"missing_prediction","source_scene":"synthetic_scene_a","gt_xy":[0.0,100.0]}
+{"query_id":"scene_b_exact","source_scene":"synthetic_scene_b","gt_xy":[100.0,0.0]}

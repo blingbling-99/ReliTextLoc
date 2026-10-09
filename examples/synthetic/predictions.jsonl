@@ -1,0 +1,11 @@
+{"query_id":"exact_5","method":"synthetic_demo","valid":true,"candidate_scene":"synthetic_scene_a","world_xy":[5.0,0.0]}
+{"query_id":"below_5","method":"synthetic_demo","valid":true,"candidate_scene":"synthetic_scene_a","world_xy":[4.999999999,10.0]}
+{"query_id":"above_5","method":"synthetic_demo","valid":true,"candidate_scene":"synthetic_scene_a","world_xy":[5.000000001,20.0]}
+{"query_id":"exact_10","method":"synthetic_demo","valid":true,"candidate_scene":"synthetic_scene_a","world_xy":[10.0,30.0]}
+{"query_id":"exact_15","method":"synthetic_demo","valid":true,"candidate_scene":"synthetic_scene_a","world_xy":[15.0,40.0]}
+{"query_id":"above_15","method":"synthetic_demo","valid":true,"candidate_scene":"synthetic_scene_a","world_xy":[15.000000001,50.0]}
+{"query_id":"wrong_scene_close","method":"synthetic_demo","valid":true,"candidate_scene":"synthetic_scene_b","world_xy":[0.0,60.0]}
+{"query_id":"invalid","method":"synthetic_demo","valid":false,"candidate_scene":"synthetic_scene_a","world_xy":[0.0,70.0]}
+{"query_id":"missing_coordinate","method":"synthetic_demo","valid":true,"candidate_scene":"synthetic_scene_a","world_xy":null}
+{"query_id":"malformed_coordinate","method":"synthetic_demo","valid":true,"candidate_scene":"synthetic_scene_a","world_xy":["unusable",90.0]}
+{"query_id":"scene_b_exact","method":"synthetic_demo","valid":true,"candidate_scene":"synthetic_scene_b","world_xy":[103.0,4.0]}

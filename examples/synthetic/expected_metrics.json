@@ -1,0 +1,13 @@
+{
+  "example_kind": "synthetic",
+  "method": "synthetic_demo",
+  "N": 12,
+  "finite_error_denominator": 7,
+  "missing_predictions": 1,
+  "success_5m": 3,
+  "success_10m": 5,
+  "success_15m": 6,
+  "R@5m": 0.25,
+  "R@10m": 0.4166666666666667,
+  "R@15m": 0.5
+}
