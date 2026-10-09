@@ -1,0 +1,7 @@
+{
+  "ground_truth": "../examples/synthetic/ground_truth.jsonl",
+  "predictions": "../examples/synthetic/predictions.jsonl",
+  "methods": ["synthetic_demo"],
+  "output_dir": "../outputs/synthetic",
+  "example_kind": "synthetic"
+}

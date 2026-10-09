@@ -1,0 +1,7 @@
+{
+  "ground_truth": "../data/ground_truth.jsonl",
+  "predictions": "../data/predictions.jsonl",
+  "methods": ["your_method"],
+  "output_dir": "../outputs/evaluation",
+  "example_kind": "user_supplied"
+}
